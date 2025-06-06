@@ -597,7 +597,7 @@ int main() {
     srand(time(0));
 
     cout << "GRID CLASH\n\n";
-    cout << "CONTROLS:\n";
+    cout << "INFO ON CONTROLS:\n";
     cout << "  MOVEMENT: \n";
     cout << "    MOVE UP:    W \n";
     cout << "    MOVE LEFT:  A \n";
